@@ -45,6 +45,8 @@
 * [does OOP really model the real world](https://softwareengineering.stackexchange.com/questions/137994/does-object-oriented-programming-really-model-the-real-world)
 * [перестаньте писать классы](https://habr.com/ru/post/140581/)
 * [mulit method in clojure](https://clojure.org/reference/multimethods)
+* [expression problem 1](http://wiki.c2.com/?ExpressionProblem)
+* [expression problem 2](https://tech.nested.com/solving-the-expression-problem-with-elixir-916bb9b5dd74)
 
 1. Библиотека, которая по ip адресу возвращает гео информацию используя сервис http://ip-api.com
 curl http://ip-api.com/json/134.234.3.2
